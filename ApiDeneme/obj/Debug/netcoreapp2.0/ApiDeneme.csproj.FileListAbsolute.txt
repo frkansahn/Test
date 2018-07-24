@@ -1,0 +1,11 @@
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\obj\Debug\netcoreapp2.0\ApiDeneme.csprojAssemblyReference.cache
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\obj\Debug\netcoreapp2.0\ApiDeneme.csproj.CoreCompileInputs.cache
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\obj\Debug\netcoreapp2.0\ApiDeneme.AssemblyInfoInputs.cache
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\obj\Debug\netcoreapp2.0\ApiDeneme.AssemblyInfo.cs
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\bin\Debug\netcoreapp2.0\ApiDeneme.deps.json
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\bin\Debug\netcoreapp2.0\ApiDeneme.runtimeconfig.json
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\bin\Debug\netcoreapp2.0\ApiDeneme.runtimeconfig.dev.json
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\bin\Debug\netcoreapp2.0\ApiDeneme.dll
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\bin\Debug\netcoreapp2.0\ApiDeneme.pdb
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\obj\Debug\netcoreapp2.0\ApiDeneme.dll
+c:\users\yildi_000\source\repos\EfeSozenIddia\ApiDeneme\obj\Debug\netcoreapp2.0\ApiDeneme.pdb
